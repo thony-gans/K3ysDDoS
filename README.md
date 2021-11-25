@@ -12,6 +12,6 @@ C:\Users\name > Missionkeysddos.bat
 maka tampilannya seperti ini 
 
 
-<img src="Screenshot_2021_1123_104724.jpg" alt="termux" style="width:400px;height:600px"/>
+<img src="Missionkeysddos.bat" alt="Missionkeysddos" style="width:400px;height:600px"/>
 
 sampai disini kita sudah menge
